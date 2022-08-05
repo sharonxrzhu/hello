@@ -1,4 +1,4 @@
-# hello
+<!-- # hello
 git clone <git link> = download git repository to own computer(make sure first cd to the right folder)
 git add <filename> =  add files to be committed
 git commit -m "message" = commit with a message 
@@ -12,7 +12,7 @@ git reset --hard <commit> = revert back to <commit> given in git log
 git reset --hard orgin/master = reset back to whatever is on github   
     
 
-# Merge Conflict
+Merge Conflict
 <<<<<<<
 <Your changes>
 =======
@@ -22,7 +22,7 @@ git reset --hard orgin/master = reset back to whatever is on github
 [fix conflict and push again]
 
 
-# Making Changes
+Making Changes
 Branching 
 main branch = default branch
 feature branch = some other feature branch
@@ -48,3 +48,4 @@ clone it and add your website pages
 settings -> github pages is ready to be published
 
 
+ -->
