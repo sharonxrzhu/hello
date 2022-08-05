@@ -1,4 +1,4 @@
-<!-- # hello
+# hello
 git clone <git link> = download git repository to own computer(make sure first cd to the right folder)
 git add <filename> =  add files to be committed
 git commit -m "message" = commit with a message 
@@ -46,6 +46,3 @@ free way to deploy a website
 create a new repository named <your username>.github.io
 clone it and add your website pages
 settings -> github pages is ready to be published
-
-
- -->
