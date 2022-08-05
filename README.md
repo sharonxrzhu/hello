@@ -12,7 +12,7 @@ git reset --hard <commit> = revert back to <commit> given in git log
 git reset --hard orgin/master = reset back to whatever is on github   
     
 
-Merge Conflict
+# Merge Conflict
 <<<<<<<
 <Your changes>
 =======
@@ -22,7 +22,7 @@ Merge Conflict
 [fix conflict and push again]
 
 
-Making Changes
+# Making Changes
 Branching 
 main branch = default branch
 feature branch = some other feature branch
